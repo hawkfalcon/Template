@@ -4,11 +4,6 @@
     <artifactId>TEMPLATE</artifactId>
     <version>0.1</version>
     <name>TEMPLATE</name>
-    <url>https://github.com/USERNAME/TEMPLATE</url>
-    <issueManagement>
-        <system>GitHub</system>
-        <url>https://github.com/USERNAME/TEMPLATE/issues</url>
-    </issueManagement>
     <build>
         <finalName>TEMPLATE</finalName>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
